@@ -1,0 +1,29 @@
+# Material file for patrick.obj
+
+newmtl Face01
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.564706 0.564706 0.564706
+	Ks 0.0 0.0 0.0
+	Ka 0.564706 0.564706 0.564706
+	map_Kd Face01.png
+
+newmtl Pants01
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.564706 0.564706 0.564706
+	Ks 0.0 0.0 0.0
+	Ka 0.564706 0.564706 0.564706
+	map_Kd Pants01.png
+
+newmtl Skin01
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.564706 0.564706 0.564706
+	Ks 0.0 0.0 0.0
+	Ka 0.564706 0.564706 0.564706
+	map_Kd Skin01.png
+

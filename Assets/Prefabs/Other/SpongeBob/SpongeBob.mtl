@@ -1,0 +1,19 @@
+# Material file for SpongeBob.obj
+
+newmtl wire_134006006
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.5255 0.0235 0.0235
+	Ks 0.35 0.35 0.35
+	Ka 0.5255 0.0235 0.0235
+
+newmtl tex
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd tex.png
+
